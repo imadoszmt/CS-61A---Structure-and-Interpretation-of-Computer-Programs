@@ -1,7 +1,9 @@
-##About CS 61A:##
+**About CS 61A:**
+
 CS 61A is an introductory course offered by the University of California, Berkeley, aimed at providing students with a solid foundation in computer science. Through lectures, assignments, projects, and exams, students explore key topics such as programming fundamentals, data abstraction, recursion, and algorithm design.
 
-##Course Objectives:##
+**Course Objectives:**
+
 CS 61A aims to:
 
 - Introduce us to the basics of programming using the Python language.
@@ -9,7 +11,8 @@ CS 61A aims to:
 - Familiarize us with different programming paradigms, including functional and object-oriented programming.
 - Cultivate our problem-solving skills through hands-on coding exercises and projects.
 
-##Course Topics:##
+**Course Topics:**
+
 Throughout the course, it will cover a range of topics including:
 
 - Basic programming constructs such as variables, conditionals, loops, and functions.
@@ -19,9 +22,12 @@ Throughout the course, it will cover a range of topics including:
 - Algorithm design and analysis, including iterative and recursive approaches.
 - Introduction to the Scheme programming language and its applications.
 
-##Course Resources:##
+**Course Resources:**
+
 **Textbook**: Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman.
+
 **Course Website**: For access to lecture materials, assignments, projects, and additional resources.
 
-##Acknowledgment:##
+**Acknowledgment:**
+
 This repository is based on the curriculum developed by the Computer Science Division at UC Berkeley.
