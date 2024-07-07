@@ -78,6 +78,16 @@ The course includes several hands-on projects designed to reinforce the concepts
 
 This repository and its contents are based on the curriculum developed by the Computer Science Division at UC Berkeley. Special thanks to the instructors, TAs, and fellow students who make this course an enriching experience.
 
+## Notes and Resources
+
+Throughout the course, my friend and I will be taking detailed notes and compiling resources to aid in understanding and applying the concepts covered. You can access our notes on Notion using the following links:
+
+- [Imad CS 61A Notes](#)
+- [Zouhair CS 61A Notes](https://www.notion.so/CS61A-Summary-Zouhair-f90ff79ac52b4f9d8a97093e4ad3aaf7?pvs=4)
+
+Feel free to explore and use these notes as supplementary resources to enhance your learning experience.
+
+
 ## How to Contribute
 
 Contributions are welcome! Whether it's improving documentation, fixing bugs, or adding new features, feel free to open a pull request. Please ensure your contributions adhere to the project's coding standards and include appropriate tests.
